@@ -39,7 +39,7 @@ Soy un **Analista de Datos Senior** con 4 años de experiencia transformando dat
   </tr>
   <tr>
     <td align="center" width="150">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_power_bi/microsoft_power_bi-icon.svg" width="40" height="40" alt="Power BI" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40" alt="Power BI" />
       <br><strong>Power BI</strong>
     </td>
     <td align="center" width="150">
@@ -54,9 +54,23 @@ Soy un **Analista de Datos Senior** con 4 años de experiencia transformando dat
       <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" height="40" alt="Jupyter" />
       <br><strong>Jupyter</strong>
     </td>
-     <td align="center" width="150">
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="Flask" />
-      <br><strong>Flask</strong>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" width="40" height="40" alt="Apache Spark" />
+      <br><strong>Spark</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original-wordmark.svg" width="40" height="40" alt="Apache Airflow" />
+      <br><strong>Airflow</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://www.vectorlogo.zone/logos/google_looker/google_looker-icon.svg" width="40" height="40" alt="Looker Studio" />
+      <br><strong>Looker Studio</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="Anaconda" />
+      <br><strong>Anaconda</strong>
     </td>
   </tr>
 </table>

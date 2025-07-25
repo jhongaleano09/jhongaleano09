@@ -71,7 +71,7 @@ Soy un **Analista de Datos Senior** con 4 años de experiencia transformando dat
     <td align="center" width="150">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="Anaconda" />
       <br><strong>Anaconda</strong>
-    </td>
+    </td>ybig query
     <td align="center" width="150">
       <img src="https://www.svgrepo.com/show/448223/gcp.svg" width="40" height="40" alt="Google Cloud Platform" />
       <br><strong>Google Cloud Platform</strong>
